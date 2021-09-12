@@ -1,5 +1,5 @@
 # Description 
-A simple nodeJS PoC
+A simple Express NodeJS PoC
 
 # Generate project
 npm init
